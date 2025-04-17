@@ -21,11 +21,32 @@ I love solving real-world problems through technology and constantly push myself
 
 ## 📱 My Published Apps
 
-[![My App on Google Play](https://img.shields.io/badge/Download_on-Play_Store-FF6F00?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yourapp.package)
+### 🚕 **Taximando Rider & Driver Apps**
+- 🛵 **Riders App**  
+  [![Taximando User App](https://img.shields.io/badge/Play_Store-Taximando_Rider-green?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taximandu.user)
+- 🚗 **Driver App**  
+  [![Taximando Driver App](https://img.shields.io/badge/Play_Store-Taximando_Driver-blue?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taximandu.driver)
 
-**App Name**  
-📝 Short description of what it does  
-🌐 [View on Play Store](https://play.google.com/store/apps/details?id=com.yourapp.package)
+---
+
+### 🏋️ **Figo – Health & Fitness App**
+- Connects **gyms, trainers, and trainees**
+- Built with **Flutter, Firebase, GetX, Google Maps**
+
+[![Figo on Play Store](https://img.shields.io/badge/Play_Store-Figo-orange?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.figo.appfigo)  
+[![Figo on App Store](https://img.shields.io/badge/App_Store-Figo-blue?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/it/app/figo/id6480342672)
+
+---
+
+### 🕌 **Muslim Pathway**
+- All-in-one Islamic app experience  
+[![Muslim Pathway App Store](https://img.shields.io/badge/App_Store-Muslim_Pathway-purple?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/muslimpathway/id977816375)
+
+---
+
+### 📝 **ResuMend**
+- Resume Builder App  
+[![ResuMend App Store](https://img.shields.io/badge/App_Store-ResuMend-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/resumend/id987450975)
 
 ---
 
