@@ -1,5 +1,5 @@
 # 💫 About Me
-Hi, I'm **Ihsan Ullah** – a passionate Flutter Developer with over a year of experience building beautiful, responsive, and user-friendly mobile applications.
+Hi, I'm **Ihsan Ullah** – a passionate Flutter Developer with over 3 years of experience building beautiful, responsive, and user-friendly mobile applications.
 
 💼 I specialize in:
 - **Flutter & Dart**
